@@ -13,7 +13,9 @@
 
 0. You need a PaperMC server (or forks of PaperMC) with version **26.2** or above.
 
-1. **Download** the plugin.
+1. Add the [PacketEvents](https://modrinth.com/plugin/packetevents) plugin to your server.
+
+3. **Download** the Neptune plugin.
 
 > You can download from:
 >
@@ -21,9 +23,9 @@
     features, more bugs) <ins>**recommended**</ins>
 > - [**Modrinth**](https://modrinth.com/plugin/neptunepractice#download) (**stable**; less features, less bugs).
 
-2. Once downloaded, place the `.jar` file inside the **`/plugins`** directory on your server.
-3. **Restart** your server.
-4. Run the **`/neptune`** command to set up arenas & kits.
+3. Once downloaded, extract the zip file, place the `.jar` file inside into the **`/plugins`** directory on your server.
+4. **Restart** your server.
+5. Run the **`/neptune`** command to set up arenas & kits.
 
 ## ✨ Core Features
 
