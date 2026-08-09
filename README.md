@@ -13,7 +13,7 @@
 
 0. You need a PaperMC server (or forks of PaperMC) with version **26.2** or above.
 
-1. Add the [PacketEvents](https://modrinth.com/plugin/packetevents) plugin to your server.
+1. Add the [PacketEvents](https://modrinth.com/plugin/packetevents) plugin to your server. If you have WorldEdit, remove it and replace it with [FastAsyncWorldEdit](https://modrinth.com/plugin/fastasyncworldedit).
 
 3. **Download** the Neptune plugin.
 
