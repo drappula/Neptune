@@ -65,6 +65,7 @@ public class KitService extends IService implements IKitService {
         return null;
     }
 
+    @Override
     public List<String> getKitNames() {
         List<String> names = new ArrayList<>();
         for (Kit kit : kits) {
