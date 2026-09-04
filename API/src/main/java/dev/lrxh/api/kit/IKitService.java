@@ -3,7 +3,6 @@ package dev.lrxh.api.kit;
 import dev.lrxh.api.arena.IArena;
 
 import java.util.LinkedHashSet;
-import java.util.List;
 
 public interface IKitService {
     LinkedHashSet<IKit> getAllKits();
@@ -11,8 +10,6 @@ public interface IKitService {
     IKit getKitByName(String name);
 
     IKit getKitByDisplay(String displayName);
-
-    List<String> getKitNames();
 
     void removeArena(IArena arena);
 
